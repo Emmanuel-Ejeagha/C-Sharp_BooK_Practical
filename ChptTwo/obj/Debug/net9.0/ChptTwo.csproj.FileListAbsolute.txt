@@ -1,0 +1,14 @@
+/home/emmytek/Desktop/C# Book Practical/ChptTwo/bin/Debug/net9.0/ChptTwo
+/home/emmytek/Desktop/C# Book Practical/ChptTwo/bin/Debug/net9.0/ChptTwo.deps.json
+/home/emmytek/Desktop/C# Book Practical/ChptTwo/bin/Debug/net9.0/ChptTwo.runtimeconfig.json
+/home/emmytek/Desktop/C# Book Practical/ChptTwo/bin/Debug/net9.0/ChptTwo.dll
+/home/emmytek/Desktop/C# Book Practical/ChptTwo/bin/Debug/net9.0/ChptTwo.pdb
+/home/emmytek/Desktop/C# Book Practical/ChptTwo/obj/Debug/net9.0/ChptTwo.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C# Book Practical/ChptTwo/obj/Debug/net9.0/ChptTwo.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C# Book Practical/ChptTwo/obj/Debug/net9.0/ChptTwo.AssemblyInfo.cs
+/home/emmytek/Desktop/C# Book Practical/ChptTwo/obj/Debug/net9.0/ChptTwo.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C# Book Practical/ChptTwo/obj/Debug/net9.0/ChptTwo.dll
+/home/emmytek/Desktop/C# Book Practical/ChptTwo/obj/Debug/net9.0/refint/ChptTwo.dll
+/home/emmytek/Desktop/C# Book Practical/ChptTwo/obj/Debug/net9.0/ChptTwo.pdb
+/home/emmytek/Desktop/C# Book Practical/ChptTwo/obj/Debug/net9.0/ChptTwo.genruntimeconfig.cache
+/home/emmytek/Desktop/C# Book Practical/ChptTwo/obj/Debug/net9.0/ref/ChptTwo.dll
