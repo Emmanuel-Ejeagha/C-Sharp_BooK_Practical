@@ -69,9 +69,48 @@ int num = 0x100;
 
 Console.WriteLine($"Hexadecimal 0x100 in decimal is: {num}");
 
+// Task 5:
+// Characters and Unicode
+char myChar = (char)72; // ASCII value for 'H'
+Console.WriteLine($"Character for ASCII value 72 is: {myChar}");
+char character = '\u0048'; // Unicode for 'H'
+Console.WriteLine($"Unicode character for '\\u0048' is: {character}");
 
+// Task 6:
+// Boolean type
+bool isMale = true;
 
+if (isMale)
+{
+    Console.WriteLine("The person is a Male.");
+}
+else
+{
+    Console.WriteLine("The person is a female.");
+}
 
+// Task 7:
+// String concatenation
+string greeting1 = "Hello";
+string greeting2 = "World";
+object combinedGreeting = greeting1 + " " + greeting2;
+Console.WriteLine($"Combined greeting: {combinedGreeting}");
+
+// Task 8:
+// String interpolation
+string quote1 = "The \"use\" of quotations causes difficulties.";
+string quote2 = @"The ""use"" of quotations causes difficulties.";
+
+Console.WriteLine($"Quote with escape characters: {quote1}");
+Console.WriteLine($"Quote with verbatim string: {quote2}");
+
+Console.WriteLine("   o   o   ");
+Console.WriteLine("  ooo ooo  ");
+Console.WriteLine("ooooooooooo");
+Console.WriteLine("  ooooooo  ");
+Console.WriteLine("   ooooo   ");
+Console.WriteLine("    ooo    ");
+Console.WriteLine("     o     ");
 
 
 
