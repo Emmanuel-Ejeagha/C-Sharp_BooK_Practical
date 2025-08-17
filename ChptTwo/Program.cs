@@ -104,6 +104,8 @@ string quote2 = @"The ""use"" of quotations causes difficulties.";
 Console.WriteLine($"Quote with escape characters: {quote1}");
 Console.WriteLine($"Quote with verbatim string: {quote2}");
 
+// Task 9:
+// Printing a heart shape using only o's
 Console.WriteLine("   o   o   ");
 Console.WriteLine("  ooo ooo  ");
 Console.WriteLine("ooooooooooo");
@@ -111,6 +113,20 @@ Console.WriteLine("  ooooooo  ");
 Console.WriteLine("   ooooo   ");
 Console.WriteLine("    ooo    ");
 Console.WriteLine("     o     ");
+
+// Task 10:
+// Printing an Isosceles Triangle using © symbol
+// Using Unicode © symbol
+char c = '\u00A9'; // Unicode for ©
+
+Console.WriteLine($"Printing Isoseles Triangl using {c} Unicode symbol:");
+Console.WriteLine($"   {c}    ");
+Console.WriteLine($"  {c} {c} ");
+Console.WriteLine($" {c}   {c}   ");
+Console.WriteLine($"{c} {c} {c} {c}");
+
+
+
 
 
 
