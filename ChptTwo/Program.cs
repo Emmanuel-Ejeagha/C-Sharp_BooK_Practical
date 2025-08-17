@@ -126,6 +126,28 @@ Console.WriteLine($" {c}   {c}   ");
 Console.WriteLine($"{c} {c} {c} {c}");
 
 
+// Task 11:
+// Declare variables for employee information
+string firstName = "";
+string lastName = "";
+byte age = 0;
+char male = 'm';
+char female = 'f';
+int uniqueID = 27560002;
+
+// Task 12:
+// Swapping two variables using a temporary variable
+int x = 5;
+int y = 10;
+
+int swapTemp = x;
+x = y;
+y = swapTemp;
+
+// x = x + y;
+// y = y - x;
+// x -= y;
+
 
 
 
