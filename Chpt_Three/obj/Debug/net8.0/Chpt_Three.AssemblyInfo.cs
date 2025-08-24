@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chpt_Three")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc689930b25f79a67364a4b1d409f0b3a2e123d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d109073ab7e9a153cac13df70bdeff434d22506b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chpt_Three")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chpt_Three")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
