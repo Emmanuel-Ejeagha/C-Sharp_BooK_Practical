@@ -18,6 +18,8 @@ class HelloSharp
         Console.WriteLine(num1);
         Console.WriteLine(num2);
 
+
+
         // Task 3: Print the current date and time     
         Console.WriteLine("Current date and time: " + DateTime.Now);
 
