@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/bin/Debug/net8.0/Chpt4
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/bin/Debug/net8.0/Chpt4.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/bin/Debug/net8.0/Chpt4.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/bin/Debug/net8.0/Chpt4.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/bin/Debug/net8.0/Chpt4.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/obj/Debug/net8.0/Chpt4.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/obj/Debug/net8.0/Chpt4.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/obj/Debug/net8.0/Chpt4.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/obj/Debug/net8.0/Chpt4.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/obj/Debug/net8.0/Chpt4.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/obj/Debug/net8.0/Chpt4.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/obj/Debug/net8.0/refint/Chpt4.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/obj/Debug/net8.0/Chpt4.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/obj/Debug/net8.0/Chpt4.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt4/obj/Debug/net8.0/ref/Chpt4.dll
