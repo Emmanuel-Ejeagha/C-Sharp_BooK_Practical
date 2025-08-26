@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OSlz2Tvjg2w=",
+  "success": true,
+  "projectFilePath": "/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/Chpt7_Arrays.csproj",
+  "expectedPackageFiles": [
+    "/home/emmytek/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.19/microsoft.netcore.app.host.linux-x64.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
