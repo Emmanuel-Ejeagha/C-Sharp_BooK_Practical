@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/bin/Debug/net8.0/Chpt7_Arrays
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/bin/Debug/net8.0/Chpt7_Arrays.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/bin/Debug/net8.0/Chpt7_Arrays.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/bin/Debug/net8.0/Chpt7_Arrays.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/bin/Debug/net8.0/Chpt7_Arrays.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/obj/Debug/net8.0/Chpt7_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/obj/Debug/net8.0/Chpt7_Arrays.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/obj/Debug/net8.0/Chpt7_Arrays.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/obj/Debug/net8.0/Chpt7_Arrays.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/obj/Debug/net8.0/Chpt7_Arrays.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/obj/Debug/net8.0/Chpt7_Arrays.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/obj/Debug/net8.0/refint/Chpt7_Arrays.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/obj/Debug/net8.0/Chpt7_Arrays.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/obj/Debug/net8.0/Chpt7_Arrays.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt7_Arrays/obj/Debug/net8.0/ref/Chpt7_Arrays.dll
