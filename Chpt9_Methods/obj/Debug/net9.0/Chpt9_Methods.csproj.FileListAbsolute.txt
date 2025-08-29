@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/bin/Debug/net9.0/Chpt9_Methods
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/bin/Debug/net9.0/Chpt9_Methods.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/bin/Debug/net9.0/Chpt9_Methods.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/bin/Debug/net9.0/Chpt9_Methods.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/bin/Debug/net9.0/Chpt9_Methods.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/obj/Debug/net9.0/Chpt9_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/obj/Debug/net9.0/Chpt9_Methods.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/obj/Debug/net9.0/Chpt9_Methods.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/obj/Debug/net9.0/Chpt9_Methods.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/obj/Debug/net9.0/Chpt9_Methods.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/obj/Debug/net9.0/Chpt9_Methods.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/obj/Debug/net9.0/refint/Chpt9_Methods.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/obj/Debug/net9.0/Chpt9_Methods.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/obj/Debug/net9.0/Chpt9_Methods.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt9_Methods/obj/Debug/net9.0/ref/Chpt9_Methods.dll
