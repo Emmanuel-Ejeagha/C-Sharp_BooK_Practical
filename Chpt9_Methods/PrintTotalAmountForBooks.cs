@@ -5,7 +5,7 @@ namespace Chpt9_Methods;
 public class PrintTotalAmountForBooks
 {
     // This method calculates and prints the total amount for an array of book prices
-    public static void PrintTotalAmount(decimal[] prices)
+    public static void PrintTotalAmount(params decimal[] prices)
     {
         decimal totalAmount = 0;
 

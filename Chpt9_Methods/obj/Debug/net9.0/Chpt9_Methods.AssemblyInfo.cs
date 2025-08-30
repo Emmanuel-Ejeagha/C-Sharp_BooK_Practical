@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chpt9_Methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1ae10d781d7e8b2172767264593efd9aa6468f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e454f9f08cf4c9a5d1b1942db1316068c4e01889")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chpt9_Methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chpt9_Methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
