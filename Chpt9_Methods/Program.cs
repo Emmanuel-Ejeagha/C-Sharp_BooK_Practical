@@ -119,3 +119,6 @@ Console.Write("Second month (1-12): ");
 int secondMonth = int.Parse(Console.ReadLine());
 
 Months.SayPeriod(firstMonth, secondMonth);
+
+// Data Validation Call
+DataValidation.HourMinuteCall();
