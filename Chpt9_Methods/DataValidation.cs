@@ -18,7 +18,7 @@ public class DataValidation
 
         if (isValidTime)
         {
-            Console.WriteLine("The time is {0}:{1}", hours, minutes);
+            Console.WriteLine("The time is {0}:{1} now.", hours, minutes);
         }
         else
         {
