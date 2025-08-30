@@ -112,6 +112,7 @@ if (temperature >= 37)
     Console.WriteLine("You are ill!");
 }
 
+// Months Invoke
 Console.Write("Frist month (1 - 12): ");
 int firstMonth = int.Parse(Console.ReadLine());
 
@@ -122,3 +123,14 @@ Months.SayPeriod(firstMonth, secondMonth);
 
 // Data Validation Call
 DataValidation.HourMinuteCall();
+
+// invoke Sort Method
+int[] numbers = SortingEngine.Sort(10, 3, 5, -1, 0, 12, 8);
+SortingEngine.PrintNumbers(numbers);
+
+
+static void Greet(string name)
+{
+    Console.WriteLine("Hello, {0}", name);
+}
+Greet("Emmanuel");
