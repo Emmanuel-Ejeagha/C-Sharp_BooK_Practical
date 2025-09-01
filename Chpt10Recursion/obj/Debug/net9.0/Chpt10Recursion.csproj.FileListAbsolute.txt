@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/bin/Debug/net9.0/Chpt10Recursion
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/bin/Debug/net9.0/Chpt10Recursion.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/bin/Debug/net9.0/Chpt10Recursion.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/bin/Debug/net9.0/Chpt10Recursion.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/bin/Debug/net9.0/Chpt10Recursion.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/obj/Debug/net9.0/Chpt10Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/obj/Debug/net9.0/Chpt10Recursion.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/obj/Debug/net9.0/Chpt10Recursion.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/obj/Debug/net9.0/Chpt10Recursion.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/obj/Debug/net9.0/Chpt10Recursion.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/obj/Debug/net9.0/Chpt10Recursion.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/obj/Debug/net9.0/refint/Chpt10Recursion.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/obj/Debug/net9.0/Chpt10Recursion.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/obj/Debug/net9.0/Chpt10Recursion.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt10Recursion/obj/Debug/net9.0/ref/Chpt10Recursion.dll
