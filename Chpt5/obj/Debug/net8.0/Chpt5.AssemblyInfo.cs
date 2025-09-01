@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chpt5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95f22bf3187dcb8432a43fb511aceebd8ea87767")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49749852afdb39048ccb63be5fde870f92fbc906")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chpt5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chpt5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -140,3 +140,18 @@ Console.WriteLine("The maximal sum is: " + bestSum);
 
 PascalTriangle pascal = new PascalTriangle();
 pascal.Print();
+
+// Task 7
+int[] arrays = new int[20];
+
+for (int i = 0; i < arrays.Length; i++)
+{
+    arrays[i] = i * 5;
+}
+
+Console.WriteLine("Array elements:");
+foreach (var item in arrays)
+{
+    Console.Write(" " + item);
+}
+Console.WriteLine();
