@@ -3,6 +3,7 @@
 // Test the time it takes to execute this code
 int startTime = Environment.TickCount;
 
+// Call Cat Methos
 Cat.Run();
 
 // System Test
@@ -21,3 +22,8 @@ for (int i = 0; i <= 10000000; i++)
 endTime = Environment.TickCount;
 
 Console.WriteLine("The time elapsed is {0} sec.", (endTime - startTime) / 1000.0);
+
+// Call PrintRandom Method
+RandomNumbers.PrintRandomNumbers();
+
+RandomPasswordGenerator.RandPasswdGen();
