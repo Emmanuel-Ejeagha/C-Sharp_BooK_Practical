@@ -1,6 +1,6 @@
 using System;
 
-namespace Chpt11_CreatingAndUsingObjects;
+namespace Chpt11CreatingAndUsingObjects;
 
 public class Cat
 {

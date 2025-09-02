@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace Chpt11_CreatingAndUsingObjects;
+namespace Chpt11CreatingAndUsingObjects;
 
 public class RandomPasswordGenerator
 {
