@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt9_Methods", "Chpt9_Meth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt10Recursion", "Chpt10Recursion\Chpt10Recursion.csproj", "{340899BE-EBC3-4A6D-A59D-07336886AD21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt11_CreatingAndUsingObjects", "Chpt11_CreatingAndUsingObjects\Chpt11_CreatingAndUsingObjects.csproj", "{A6D024C9-572E-4FC8-8034-D0AF08DE7C03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{340899BE-EBC3-4A6D-A59D-07336886AD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{340899BE-EBC3-4A6D-A59D-07336886AD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{340899BE-EBC3-4A6D-A59D-07336886AD21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D024C9-572E-4FC8-8034-D0AF08DE7C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D024C9-572E-4FC8-8034-D0AF08DE7C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D024C9-572E-4FC8-8034-D0AF08DE7C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D024C9-572E-4FC8-8034-D0AF08DE7C03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
