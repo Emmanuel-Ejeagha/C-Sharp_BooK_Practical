@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/bin/Debug/net9.0/Chpt11_CreatingAndUsingObjects
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/bin/Debug/net9.0/Chpt11_CreatingAndUsingObjects.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/bin/Debug/net9.0/Chpt11_CreatingAndUsingObjects.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/bin/Debug/net9.0/Chpt11_CreatingAndUsingObjects.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/bin/Debug/net9.0/Chpt11_CreatingAndUsingObjects.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/obj/Debug/net9.0/Chpt11_CreatingAndUsingObjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/obj/Debug/net9.0/Chpt11_CreatingAndUsingObjects.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/obj/Debug/net9.0/Chpt11_CreatingAndUsingObjects.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/obj/Debug/net9.0/Chpt11_CreatingAndUsingObjects.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/obj/Debug/net9.0/Chpt11_CreatingAndUsingObjects.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/obj/Debug/net9.0/Chpt11_CreatingAndUsingObjects.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/obj/Debug/net9.0/refint/Chpt11_CreatingAndUsingObjects.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/obj/Debug/net9.0/Chpt11_CreatingAndUsingObjects.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/obj/Debug/net9.0/Chpt11_CreatingAndUsingObjects.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt11_CreatingAndUsingObjects/obj/Debug/net9.0/ref/Chpt11_CreatingAndUsingObjects.dll
