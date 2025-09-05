@@ -1,4 +1,5 @@
-﻿using Chpt11CreatingAndUsingObjects;
+﻿using Chpt11_CreatingAndUsingObjects;
+using Chpt11CreatingAndUsingObjects;
 
 // Test the time it takes to execute this code
 int startTime = Environment.TickCount;
@@ -27,3 +28,5 @@ Console.WriteLine("The time elapsed is {0} sec.", (endTime - startTime) / 1000.0
 RandomNumbers.PrintRandomNumbers();
 
 RandomPasswordGenerator.RandPasswdGen();
+
+IntDobleChecker.CheckIntAndDouble();

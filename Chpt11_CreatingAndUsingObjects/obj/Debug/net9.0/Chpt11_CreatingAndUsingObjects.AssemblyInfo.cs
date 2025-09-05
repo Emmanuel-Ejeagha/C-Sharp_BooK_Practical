@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chpt11_CreatingAndUsingObjects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff3b8521f2920c85cd7d394f566f2e8b87f7c8de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dccfeddb679581390657582801dccf5d65397fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chpt11_CreatingAndUsingObjects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chpt11_CreatingAndUsingObjects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
