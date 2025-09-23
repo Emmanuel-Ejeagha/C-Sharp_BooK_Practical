@@ -1,0 +1,8 @@
+Reading a Text File Line by Line – Example
+Now, we have learned how to create StreamReader. We can go further by
+trying to do something more complicated: to read the entire text file line
+by line and print the read text on to the console. Our advice is to create the
+text file in the Debug folder of the project (.\bin\Debug), so that it will be in
+the same directory in which your compiled application will be and you will not
+have to set the full path to it when opening the file. Let’s see what our file
+looks like:

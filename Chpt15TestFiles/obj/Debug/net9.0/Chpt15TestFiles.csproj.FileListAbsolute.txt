@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/bin/Debug/net9.0/Chpt15TestFiles
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/bin/Debug/net9.0/Chpt15TestFiles.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/bin/Debug/net9.0/Chpt15TestFiles.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/bin/Debug/net9.0/Chpt15TestFiles.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/bin/Debug/net9.0/Chpt15TestFiles.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/obj/Debug/net9.0/Chpt15TestFiles.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/obj/Debug/net9.0/Chpt15TestFiles.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/obj/Debug/net9.0/Chpt15TestFiles.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/obj/Debug/net9.0/Chpt15TestFiles.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/obj/Debug/net9.0/Chpt15TestFiles.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/obj/Debug/net9.0/Chpt15TestFiles.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/obj/Debug/net9.0/refint/Chpt15TestFiles.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/obj/Debug/net9.0/Chpt15TestFiles.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/obj/Debug/net9.0/Chpt15TestFiles.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt15TestFiles/obj/Debug/net9.0/ref/Chpt15TestFiles.dll
