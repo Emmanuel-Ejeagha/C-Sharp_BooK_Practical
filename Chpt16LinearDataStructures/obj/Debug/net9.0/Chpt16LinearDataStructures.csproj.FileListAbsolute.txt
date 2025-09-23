@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/bin/Debug/net9.0/Chpt16LinearDataStructures
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/bin/Debug/net9.0/Chpt16LinearDataStructures.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/bin/Debug/net9.0/Chpt16LinearDataStructures.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/bin/Debug/net9.0/Chpt16LinearDataStructures.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/bin/Debug/net9.0/Chpt16LinearDataStructures.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/obj/Debug/net9.0/Chpt16LinearDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/obj/Debug/net9.0/Chpt16LinearDataStructures.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/obj/Debug/net9.0/Chpt16LinearDataStructures.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/obj/Debug/net9.0/Chpt16LinearDataStructures.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/obj/Debug/net9.0/Chpt16LinearDataStructures.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/obj/Debug/net9.0/Chpt16LinearDataStructures.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/obj/Debug/net9.0/refint/Chpt16LinearDataStructures.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/obj/Debug/net9.0/Chpt16LinearDataStructures.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/obj/Debug/net9.0/Chpt16LinearDataStructures.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt16LinearDataStructures/obj/Debug/net9.0/ref/Chpt16LinearDataStructures.dll

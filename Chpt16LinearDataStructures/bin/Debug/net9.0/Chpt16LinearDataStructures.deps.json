@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Chpt16LinearDataStructures/1.0.0": {
+        "runtime": {
+          "Chpt16LinearDataStructures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chpt16LinearDataStructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
