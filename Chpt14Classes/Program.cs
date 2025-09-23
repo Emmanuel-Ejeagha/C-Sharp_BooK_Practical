@@ -46,17 +46,36 @@ nestedClass.PrintNames();
 */
 
 // Animal Shelter
-AnimalsShelter dogsShelter = new AnimalsShelter(10);
-Dog dog1 = new Dog();
-Dog dog2 = new Dog();
-Dog dog3 = new Dog();
+AnimalsShelter<Dog> dogsShelter = new AnimalsShelter<Dog>(10);
+// Dog dog1 = new Dog();
+// Dog dog2 = new Dog();
+// Dog dog3 = new Dog();
 
-dogsShelter.Shelter(dog1);
-dogsShelter.Shelter(dog2);
-dogsShelter.Shelter(dog3);
+// dogsShelter.Shelter(dog1);
+// dogsShelter.Shelter(dog2);
+// dogsShelter.Shelter(dog3);
 
-dogsShelter.Release(1);
+dogsShelter.Shelter(new Dog());
+dogsShelter.Shelter(new Dog());
+dogsShelter.Shelter(new Dog());
+
+Dog d = dogsShelter.Release(1); // Release the second dog
+Console.WriteLine(d);
+d = dogsShelter.Release(0);
+Console.WriteLine(d);
+d = dogsShelter.Release(0);
+Console.WriteLine(d);
+
+
+// dogsShelter.Release(1);
 
 Swapping s = new Swapping();
 s.PrintSwap();
 
+Console.WriteLine();
+
+// Create Students
+StudentTest.CreateStudents();
+
+// Print them
+StudentTest.PrintStudents();
