@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/obj/Debug/net9.0/Chpt18DictHash-TablesAndSets.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/obj/Debug/net9.0/Chpt18DictHash-TablesAndSets.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/obj/Debug/net9.0/Chpt18DictHash-TablesAndSets.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/obj/Debug/net9.0/Chpt18DictHash-TablesAndSets.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/obj/Debug/net9.0/Chpt18DictHash-TablesAndSets.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/bin/Debug/net9.0/Chpt18DictHash-TablesAndSets
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/bin/Debug/net9.0/Chpt18DictHash-TablesAndSets.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/bin/Debug/net9.0/Chpt18DictHash-TablesAndSets.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/bin/Debug/net9.0/Chpt18DictHash-TablesAndSets.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/bin/Debug/net9.0/Chpt18DictHash-TablesAndSets.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/obj/Debug/net9.0/Chpt18DictHash-TablesAndSets.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/obj/Debug/net9.0/refint/Chpt18DictHash-TablesAndSets.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/obj/Debug/net9.0/Chpt18DictHash-TablesAndSets.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/obj/Debug/net9.0/Chpt18DictHash-TablesAndSets.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt18DictHash-TablesAndSets/obj/Debug/net9.0/ref/Chpt18DictHash-TablesAndSets.dll
