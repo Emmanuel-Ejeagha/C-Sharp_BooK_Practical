@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt17TreeAndGraph", "Chpt1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt18DictHash-TablesAndSets", "Chpt18DictHash-TablesAndSets\Chpt18DictHash-TablesAndSets.csproj", "{FB360B88-8452-4613-9C2E-A7BA94C71D3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt19DSA", "Chpt19DSA\Chpt19DSA.csproj", "{6AE71343-3E0B-4E8F-9BA4-B7B15E98A4D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +100,10 @@ Global
 		{FB360B88-8452-4613-9C2E-A7BA94C71D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB360B88-8452-4613-9C2E-A7BA94C71D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB360B88-8452-4613-9C2E-A7BA94C71D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AE71343-3E0B-4E8F-9BA4-B7B15E98A4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE71343-3E0B-4E8F-9BA4-B7B15E98A4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE71343-3E0B-4E8F-9BA4-B7B15E98A4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE71343-3E0B-4E8F-9BA4-B7B15E98A4D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
