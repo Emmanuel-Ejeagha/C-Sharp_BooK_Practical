@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/bin/Debug/net9.0/Chpt19DSA
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/bin/Debug/net9.0/Chpt19DSA.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/bin/Debug/net9.0/Chpt19DSA.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/bin/Debug/net9.0/Chpt19DSA.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/bin/Debug/net9.0/Chpt19DSA.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/obj/Debug/net9.0/Chpt19DSA.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/obj/Debug/net9.0/Chpt19DSA.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/obj/Debug/net9.0/Chpt19DSA.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/obj/Debug/net9.0/Chpt19DSA.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/obj/Debug/net9.0/Chpt19DSA.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/obj/Debug/net9.0/Chpt19DSA.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/obj/Debug/net9.0/refint/Chpt19DSA.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/obj/Debug/net9.0/Chpt19DSA.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/obj/Debug/net9.0/Chpt19DSA.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt19DSA/obj/Debug/net9.0/ref/Chpt19DSA.dll
