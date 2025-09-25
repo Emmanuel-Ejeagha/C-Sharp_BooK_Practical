@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chpt16LinearDataStructures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+852e18557f457e58a7d1ca19cc48d726a57c9310")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5506ee39566a717ceec7903fb65201aff6466f45")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chpt16LinearDataStructures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chpt16LinearDataStructures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
