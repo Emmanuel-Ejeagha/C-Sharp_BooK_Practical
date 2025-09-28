@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/bin/Debug/net9.0/Chpt20OOPPrinciples
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/bin/Debug/net9.0/Chpt20OOPPrinciples.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/bin/Debug/net9.0/Chpt20OOPPrinciples.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/bin/Debug/net9.0/Chpt20OOPPrinciples.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/bin/Debug/net9.0/Chpt20OOPPrinciples.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/obj/Debug/net9.0/Chpt20OOPPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/obj/Debug/net9.0/Chpt20OOPPrinciples.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/obj/Debug/net9.0/Chpt20OOPPrinciples.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/obj/Debug/net9.0/Chpt20OOPPrinciples.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/obj/Debug/net9.0/Chpt20OOPPrinciples.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/obj/Debug/net9.0/Chpt20OOPPrinciples.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/obj/Debug/net9.0/refint/Chpt20OOPPrinciples.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/obj/Debug/net9.0/Chpt20OOPPrinciples.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/obj/Debug/net9.0/Chpt20OOPPrinciples.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt20OOPPrinciples/obj/Debug/net9.0/ref/Chpt20OOPPrinciples.dll
