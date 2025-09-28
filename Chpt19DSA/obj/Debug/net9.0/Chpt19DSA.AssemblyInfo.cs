@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chpt19DSA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7af91a9bf6a0368cf991e8e6f22716e8a2caf133")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98ed4e3bf1913dc90e1fa2f9481c2440ec57a93e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chpt19DSA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chpt19DSA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
