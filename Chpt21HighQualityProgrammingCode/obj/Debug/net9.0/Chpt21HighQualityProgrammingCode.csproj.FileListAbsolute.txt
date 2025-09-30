@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/bin/Debug/net9.0/Chpt21HighQualityProgrammingCode
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/bin/Debug/net9.0/Chpt21HighQualityProgrammingCode.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/bin/Debug/net9.0/Chpt21HighQualityProgrammingCode.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/bin/Debug/net9.0/Chpt21HighQualityProgrammingCode.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/bin/Debug/net9.0/Chpt21HighQualityProgrammingCode.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/obj/Debug/net9.0/Chpt21HighQualityProgrammingCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/obj/Debug/net9.0/Chpt21HighQualityProgrammingCode.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/obj/Debug/net9.0/Chpt21HighQualityProgrammingCode.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/obj/Debug/net9.0/Chpt21HighQualityProgrammingCode.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/obj/Debug/net9.0/Chpt21HighQualityProgrammingCode.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/obj/Debug/net9.0/Chpt21HighQualityProgrammingCode.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/obj/Debug/net9.0/refint/Chpt21HighQualityProgrammingCode.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/obj/Debug/net9.0/Chpt21HighQualityProgrammingCode.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/obj/Debug/net9.0/Chpt21HighQualityProgrammingCode.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt21HighQualityProgrammingCode/obj/Debug/net9.0/ref/Chpt21HighQualityProgrammingCode.dll
