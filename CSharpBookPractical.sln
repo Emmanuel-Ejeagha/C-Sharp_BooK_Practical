@@ -36,6 +36,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt19DSA", "Chpt19DSA\Chpt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt20OOPPrinciples", "Chpt20OOPPrinciples\Chpt20OOPPrinciples.csproj", "{ED9C3B7B-5426-4BBD-998F-3F779D1E838A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt21HighQualityProgrammingCode", "Chpt21HighQualityProgrammingCode\Chpt21HighQualityProgrammingCode.csproj", "{24E845E3-F48F-42E2-997A-87AC14E573D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt22LamdaExpressionAndLINQ", "Chpt22LamdaExpressionAndLINQ\Chpt22LamdaExpressionAndLINQ.csproj", "{F36E9BDB-EFF1-442D-90B7-4C832DD1DE6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -110,6 +114,14 @@ Global
 		{ED9C3B7B-5426-4BBD-998F-3F779D1E838A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED9C3B7B-5426-4BBD-998F-3F779D1E838A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED9C3B7B-5426-4BBD-998F-3F779D1E838A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E845E3-F48F-42E2-997A-87AC14E573D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E845E3-F48F-42E2-997A-87AC14E573D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E845E3-F48F-42E2-997A-87AC14E573D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E845E3-F48F-42E2-997A-87AC14E573D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36E9BDB-EFF1-442D-90B7-4C832DD1DE6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36E9BDB-EFF1-442D-90B7-4C832DD1DE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36E9BDB-EFF1-442D-90B7-4C832DD1DE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36E9BDB-EFF1-442D-90B7-4C832DD1DE6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
