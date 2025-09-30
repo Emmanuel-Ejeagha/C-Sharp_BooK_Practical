@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chpt10Recursion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98ed4e3bf1913dc90e1fa2f9481c2440ec57a93e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a153af9eb00fe85be4c0cd5343a9e0f0c483597")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chpt10Recursion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chpt10Recursion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

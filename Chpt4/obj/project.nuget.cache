@@ -1,11 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "zwCAonxcMIw=",
+  "dgSpecHash": "ySJAnRh2hUA=",
   "success": true,
   "projectFilePath": "/home/emmytek/Desktop/C#_Book_Practical/Chpt4/Chpt4.csproj",
   "expectedPackageFiles": [
-    "/home/emmytek/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
-    "/home/emmytek/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
     "/home/emmytek/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.20/microsoft.netcore.app.host.linux-x64.8.0.20.nupkg.sha512"
   ],
   "logs": []
