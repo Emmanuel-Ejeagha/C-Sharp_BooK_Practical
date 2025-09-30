@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/bin/Debug/net9.0/Chpt22LamdaExpressionAndLINQ
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/bin/Debug/net9.0/Chpt22LamdaExpressionAndLINQ.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/bin/Debug/net9.0/Chpt22LamdaExpressionAndLINQ.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/bin/Debug/net9.0/Chpt22LamdaExpressionAndLINQ.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/bin/Debug/net9.0/Chpt22LamdaExpressionAndLINQ.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/obj/Debug/net9.0/Chpt22LamdaExpressionAndLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/obj/Debug/net9.0/Chpt22LamdaExpressionAndLINQ.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/obj/Debug/net9.0/Chpt22LamdaExpressionAndLINQ.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/obj/Debug/net9.0/Chpt22LamdaExpressionAndLINQ.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/obj/Debug/net9.0/Chpt22LamdaExpressionAndLINQ.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/obj/Debug/net9.0/Chpt22LamdaExpressionAndLINQ.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/obj/Debug/net9.0/refint/Chpt22LamdaExpressionAndLINQ.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/obj/Debug/net9.0/Chpt22LamdaExpressionAndLINQ.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/obj/Debug/net9.0/Chpt22LamdaExpressionAndLINQ.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt22LamdaExpressionAndLINQ/obj/Debug/net9.0/ref/Chpt22LamdaExpressionAndLINQ.dll
