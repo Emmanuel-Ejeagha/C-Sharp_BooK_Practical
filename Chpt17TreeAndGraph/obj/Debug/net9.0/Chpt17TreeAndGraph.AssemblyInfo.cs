@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chpt17TreeAndGraph")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a153af9eb00fe85be4c0cd5343a9e0f0c483597")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7925c32139652009166753a6023e202135c9982")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chpt17TreeAndGraph")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chpt17TreeAndGraph")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

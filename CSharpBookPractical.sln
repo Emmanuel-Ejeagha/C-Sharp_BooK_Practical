@@ -40,6 +40,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt21HighQualityProgrammin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt22LamdaExpressionAndLINQ", "Chpt22LamdaExpressionAndLINQ\Chpt22LamdaExpressionAndLINQ.csproj", "{F36E9BDB-EFF1-442D-90B7-4C832DD1DE6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt23MethodologyOfProblemSolving", "Chpt23MethodologyOfProblemSolving\Chpt23MethodologyOfProblemSolving.csproj", "{6C591C35-CF5F-4707-BF5D-591577C9D126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt24SampleProgrammingExamTopic_1", "Chpt24SampleProgrammingExamTopic_1\Chpt24SampleProgrammingExamTopic_1.csproj", "{1D5BF8BB-3BC5-4C2B-BC6A-6A1DEB591358}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -122,6 +126,14 @@ Global
 		{F36E9BDB-EFF1-442D-90B7-4C832DD1DE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F36E9BDB-EFF1-442D-90B7-4C832DD1DE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F36E9BDB-EFF1-442D-90B7-4C832DD1DE6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C591C35-CF5F-4707-BF5D-591577C9D126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C591C35-CF5F-4707-BF5D-591577C9D126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C591C35-CF5F-4707-BF5D-591577C9D126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C591C35-CF5F-4707-BF5D-591577C9D126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5BF8BB-3BC5-4C2B-BC6A-6A1DEB591358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5BF8BB-3BC5-4C2B-BC6A-6A1DEB591358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5BF8BB-3BC5-4C2B-BC6A-6A1DEB591358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5BF8BB-3BC5-4C2B-BC6A-6A1DEB591358}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
