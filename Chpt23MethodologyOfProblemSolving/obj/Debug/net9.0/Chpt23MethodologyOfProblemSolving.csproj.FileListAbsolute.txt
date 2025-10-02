@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/bin/Debug/net9.0/Chpt23MethodologyOfProblemSolving
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/bin/Debug/net9.0/Chpt23MethodologyOfProblemSolving.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/bin/Debug/net9.0/Chpt23MethodologyOfProblemSolving.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/bin/Debug/net9.0/Chpt23MethodologyOfProblemSolving.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/bin/Debug/net9.0/Chpt23MethodologyOfProblemSolving.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/obj/Debug/net9.0/Chpt23MethodologyOfProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/obj/Debug/net9.0/Chpt23MethodologyOfProblemSolving.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/obj/Debug/net9.0/Chpt23MethodologyOfProblemSolving.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/obj/Debug/net9.0/Chpt23MethodologyOfProblemSolving.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/obj/Debug/net9.0/Chpt23MethodologyOfProblemSolving.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/obj/Debug/net9.0/Chpt23MethodologyOfProblemSolving.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/obj/Debug/net9.0/refint/Chpt23MethodologyOfProblemSolving.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/obj/Debug/net9.0/Chpt23MethodologyOfProblemSolving.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/obj/Debug/net9.0/Chpt23MethodologyOfProblemSolving.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt23MethodologyOfProblemSolving/obj/Debug/net9.0/ref/Chpt23MethodologyOfProblemSolving.dll
