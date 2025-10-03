@@ -1,16 +1,16 @@
 static long Fibonacci(int n)
 {
-    long fn = 1;
     long fn1 = 1;
     long fn2 = 1;
+    long fn3 = 1;
 
     for (int i = 2; i < n; i++)
     {
-        fn = fn1 + fn2;
-        fn2 = fn1;
-        fn1 = fn2;
+        fn1 = fn2 + fn3;
+        fn3 = fn2;
+        fn2 = fn3;
     }
-    return fn;
+    return fn1;
 }
 
 // Recurcive method is very difficult to estimate the complexity:
