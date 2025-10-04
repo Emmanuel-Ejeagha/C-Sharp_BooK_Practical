@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt24SampleProgrammingExam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt25SampleProgrammingExamSampleTopic2", "Chpt25SampleProgrammingExamSampleTopic2\Chpt25SampleProgrammingExamSampleTopic2.csproj", "{EA625CD3-BD6C-4084-AD1B-52F2EF0E5B36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chpt26SampleProgrammintExamTopic3", "Chpt26SampleProgrammintExamTopic3\Chpt26SampleProgrammintExamTopic3.csproj", "{EE1EC3C6-5CBB-40DB-BD5E-0852A9718B68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -140,6 +142,10 @@ Global
 		{EA625CD3-BD6C-4084-AD1B-52F2EF0E5B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA625CD3-BD6C-4084-AD1B-52F2EF0E5B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA625CD3-BD6C-4084-AD1B-52F2EF0E5B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1EC3C6-5CBB-40DB-BD5E-0852A9718B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1EC3C6-5CBB-40DB-BD5E-0852A9718B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1EC3C6-5CBB-40DB-BD5E-0852A9718B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1EC3C6-5CBB-40DB-BD5E-0852A9718B68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
