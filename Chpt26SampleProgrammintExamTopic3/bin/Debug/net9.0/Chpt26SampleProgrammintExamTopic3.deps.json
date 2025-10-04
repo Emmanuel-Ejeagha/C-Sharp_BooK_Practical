@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Chpt26SampleProgrammintExamTopic3/1.0.0": {
+        "runtime": {
+          "Chpt26SampleProgrammintExamTopic3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chpt26SampleProgrammintExamTopic3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

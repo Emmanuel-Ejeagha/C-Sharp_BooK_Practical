@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/bin/Debug/net9.0/Chpt26SampleProgrammintExamTopic3
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/bin/Debug/net9.0/Chpt26SampleProgrammintExamTopic3.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/bin/Debug/net9.0/Chpt26SampleProgrammintExamTopic3.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/bin/Debug/net9.0/Chpt26SampleProgrammintExamTopic3.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/bin/Debug/net9.0/Chpt26SampleProgrammintExamTopic3.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/obj/Debug/net9.0/Chpt26SampleProgrammintExamTopic3.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/obj/Debug/net9.0/Chpt26SampleProgrammintExamTopic3.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/obj/Debug/net9.0/Chpt26SampleProgrammintExamTopic3.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/obj/Debug/net9.0/Chpt26SampleProgrammintExamTopic3.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/obj/Debug/net9.0/Chpt26SampleProgrammintExamTopic3.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/obj/Debug/net9.0/Chpt26SampleProgrammintExamTopic3.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/obj/Debug/net9.0/refint/Chpt26SampleProgrammintExamTopic3.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/obj/Debug/net9.0/Chpt26SampleProgrammintExamTopic3.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/obj/Debug/net9.0/Chpt26SampleProgrammintExamTopic3.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt26SampleProgrammintExamTopic3/obj/Debug/net9.0/ref/Chpt26SampleProgrammintExamTopic3.dll
