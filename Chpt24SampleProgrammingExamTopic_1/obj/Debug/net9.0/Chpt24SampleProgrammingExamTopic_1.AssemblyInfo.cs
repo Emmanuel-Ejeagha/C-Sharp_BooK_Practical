@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chpt24SampleProgrammingExamTopic_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f7c83a420013eee21faf1e57e1609231b6ee4ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edadfa8328c9a08204d9e374b87eaa0cbad558d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chpt24SampleProgrammingExamTopic_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chpt24SampleProgrammingExamTopic_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/bin/Debug/net9.0/Chpt24SampleProgrammingExamTopic_1
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/bin/Debug/net9.0/Chpt24SampleProgrammingExamTopic_1.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/bin/Debug/net9.0/Chpt24SampleProgrammingExamTopic_1.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/bin/Debug/net9.0/Chpt24SampleProgrammingExamTopic_1.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/bin/Debug/net9.0/Chpt24SampleProgrammingExamTopic_1.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/obj/Debug/net9.0/Chpt24SampleProgrammingExamTopic_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/obj/Debug/net9.0/Chpt24SampleProgrammingExamTopic_1.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/obj/Debug/net9.0/Chpt24SampleProgrammingExamTopic_1.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/obj/Debug/net9.0/Chpt24SampleProgrammingExamTopic_1.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/obj/Debug/net9.0/Chpt24SampleProgrammingExamTopic_1.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/obj/Debug/net9.0/Chpt24SampleProgrammingExamTopic_1.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/obj/Debug/net9.0/refint/Chpt24SampleProgrammingExamTopic_1.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/obj/Debug/net9.0/Chpt24SampleProgrammingExamTopic_1.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/obj/Debug/net9.0/Chpt24SampleProgrammingExamTopic_1.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt24SampleProgrammingExamTopic_1/obj/Debug/net9.0/ref/Chpt24SampleProgrammingExamTopic_1.dll
