@@ -1,0 +1,15 @@
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/bin/Debug/net9.0/Chpt25SampleProgrammingExamSampleTopic2
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/bin/Debug/net9.0/Chpt25SampleProgrammingExamSampleTopic2.deps.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/bin/Debug/net9.0/Chpt25SampleProgrammingExamSampleTopic2.runtimeconfig.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/bin/Debug/net9.0/Chpt25SampleProgrammingExamSampleTopic2.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/bin/Debug/net9.0/Chpt25SampleProgrammingExamSampleTopic2.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/obj/Debug/net9.0/Chpt25SampleProgrammingExamSampleTopic2.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/obj/Debug/net9.0/Chpt25SampleProgrammingExamSampleTopic2.AssemblyInfoInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/obj/Debug/net9.0/Chpt25SampleProgrammingExamSampleTopic2.AssemblyInfo.cs
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/obj/Debug/net9.0/Chpt25SampleProgrammingExamSampleTopic2.csproj.CoreCompileInputs.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/obj/Debug/net9.0/Chpt25SampleProgrammingExamSampleTopic2.sourcelink.json
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/obj/Debug/net9.0/Chpt25SampleProgrammingExamSampleTopic2.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/obj/Debug/net9.0/refint/Chpt25SampleProgrammingExamSampleTopic2.dll
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/obj/Debug/net9.0/Chpt25SampleProgrammingExamSampleTopic2.pdb
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/obj/Debug/net9.0/Chpt25SampleProgrammingExamSampleTopic2.genruntimeconfig.cache
+/home/emmytek/Desktop/C#_Book_Practical/Chpt25SampleProgrammingExamSampleTopic2/obj/Debug/net9.0/ref/Chpt25SampleProgrammingExamSampleTopic2.dll
